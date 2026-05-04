@@ -76,13 +76,12 @@ function App() {
       {/* ── HEADER ── */}
       <header className="app-header">
         <h1>🌤 Weather App</h1>
-        <p className="author">Developed by: <strong>[Valeria Mora]</strong></p>
+        <p className="author">Developed by: <strong>Valeria Mora</strong></p>
         <div className="pm-info">
-          <strong>PM Accelerator</strong> — Product Manager Accelerator is a community
-          for product managers that accelerates their careers through mentorship,
-          resources, and networking. It connects aspiring and experienced professionals
-          with growth opportunities in tech product management.
-        </div>
+  <strong>PM Accelerator</strong> — The Product Manager Accelerator Program is designed to support PM professionals through every stage of their careers. From students looking for entry-level jobs to Directors looking to take on a leadership role, our program has helped over hundreds of students fulfill their career aspirations.
+
+  Our Product Manager Accelerator community are ambitious and committed. Through our program they have learnt, honed and developed new PM and leadership skills, giving them a strong foundation for their future endeavors.
+</div>
       </header>
 
       {/* ── TABS ── */}

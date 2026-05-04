@@ -7,10 +7,10 @@
 
 ## About PM Accelerator
 
-**Product Manager Accelerator** is a community that accelerates the careers of
-aspiring and experienced product managers. It offers mentorship, resources,
-networking, and growth opportunities in tech product management.
-LinkedIn: https://www.linkedin.com/company/pm-accelerator
+The Product Manager Accelerator Program is designed to support PM professionals through every stage of their careers. From students looking for entry-level jobs to Directors looking to take on a leadership role, our program has helped over hundreds of students fulfill their career aspirations.
+
+Our Product Manager Accelerator community are ambitious and committed. Through our program they have learnt, honed and developed new PM and leadership skills, giving them a strong foundation for their future endeavors.
+LinkedIn: https://www.linkedin.com/school/pmaccelerator/posts/?feedView=all
 
 ---
 
