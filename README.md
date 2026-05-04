@@ -50,7 +50,7 @@ LinkedIn: https://www.linkedin.com/school/pmaccelerator/posts/?feedView=all
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/lvmorap/weather-app-pm-accelerator.git
+git clone https://github.com/lvmorap/weather-app-pm-accelerator-valeria-mora.git
 cd weather-app-pm-accelerator-valeria-mora
 ```
 
