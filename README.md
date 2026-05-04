@@ -50,8 +50,8 @@ LinkedIn: https://www.linkedin.com/school/pmaccelerator/posts/?feedView=all
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/weather-app-pm-accelerator.git
-cd weather-app-pm-accelerator
+git clone https://github.com/lvmorap/weather-app-pm-accelerator.git
+cd weather-app-pm-accelerator-valeria-mora
 ```
 
 ### 2. Set up the Backend
